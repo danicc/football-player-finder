@@ -4,7 +4,7 @@ This is a basic app that shows a table of players and a form to apply a filter o
 
 ## Running locally
 
-1. git clone [`this repo`]. And go to folder of the cloned repo.
+1. clone this repo and then go to the cloned repo folder.
 2. run `npm install`
 3. run `npm start`
 
